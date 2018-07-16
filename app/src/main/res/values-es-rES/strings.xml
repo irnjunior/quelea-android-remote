@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
 
     <string name="error_failed_finding_mr_server">No se ha podido encontrar el servidor remoto de Quelea. Compruebe que Quelea esté iniciado y que el URL indicado esté correcto.</string>
     <string name="msg_enter_password">Introduzca la contraseña del servidor remoto de Quelea Mobile</string>
