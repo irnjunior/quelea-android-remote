@@ -19,32 +19,36 @@
     <string name="error_failed_finding_mr_server">Falha ao localizar o servidor do Quelea Mobile Remote. Por favor, certifique-se de que o Quelea foi iniciado e que você digitou o URL correto.</string>
     <string name="error_url_incorrect">O URL parece estar incorreto. Certifique-se de que o Quelea esteja iniciado e insira a URL no servidor remoto do Quelea Mobile.</string>
     <string name="msg_no_live_item">Não há ítens ao vivo</string>
-    <string name="action_cancel_label">Cancelar </string>
+    <string name="action_cancel_label">Cancelar</string>
     <string name="msg_enter_password">Digite a senha de acesso remoto do Quelea.</string>
     <string name="msg_logged_in">Conectado</string>
-    <string name="msg_logged_out">Efetuado logout </string>
+    <string name="msg_logged_out">Efetuado logout</string>
     <string name="title_about_headline">Sobre este app:</string>
     <string name="app_name_mr">Quelea Controle Remoto</string>
     <string name="msg_add_song">Você quer adicionar essa música?</string>
     <string name="msg_select_song">Selecione a música que você deseja adicionar</string>
     <string name="msg_no_songs_message">Não foi possível encontrar músicas que correspondam à sua pesquisa.</string>
-    <string name="msg_search_tooltip">Adicione uma música ou passagem bíblica </string>
+    <string name="msg_search_tooltip">Adicione uma música ou passagem bíblica</string>
     <string name="msg_about_text_app">Este é um aplicativo sem fins lucrativos, feito para ser usado com o software de projeção da igreja chamado Quelea (http://quelea.org). Embora não esteja mais na versão beta, certamente este aplicativo pode apresentar falhas, e nem está completo. Este é um projeto paralelo e destina-se principalmente para uso pessoal, mas é com prazer que compartilhado com qualquer um que possa achar útil.</string>
     <string name="msg_about_text_support">Sinta-se à vontade para enviar um e-mail para arvid@quelea.org se tiver alguma dúvida ou tiver problemas, mas certifique-se de ter iniciado o Quelea antes do aplicativo (com os dois servidores ativos), que ambos os dispositivos estejam conectados à mesma rede e que você tenha inserido o URL correto primeiro.</string>
     <string name="msg_about_text_responsibility">Não posso garantir uma experiência sem falhas, por isso não me responsabilizarei por quaisquer problemas que possam ocorrer em uma apresentação ao vivo.</string>
     <string name="msg_connected">Conectado ao servidor remoto móvel</string>
     <string name="msg_select_book">Selecione o livro</string>
-    <string name="msg_bible_query_hint">[Capítulo]:[Verso]-[Verso] em </string>
+    <string name="msg_bible_query_hint">[Capítulo]:[Verso]-[Verso] em</string>
     <string name="action_change_translation">Mudar tradução</string>
     <string name="action_search_song">Pesquisar uma música</string>
     <string name="action_add_bible">Adicionar passagem bíblica</string>
     <string name="action_play">Reproduzir</string>
     <string name="action_pause">Pausa</string>
-    <string name="msg_no_server_found">​​Nenhum servidor foi encontrado ao tentar se conectar automaticamente. Certifique-se de que o Quelea e o servidor de conexão automática estejam iniciados ou insira o URL manualmente. </string>
+    <string name="msg_no_server_found">​​Nenhum servidor foi encontrado ao tentar se conectar automaticamente. Certifique-se de que o Quelea e o servidor de conexão automática estejam iniciados ou insira o URL manualmente.</string>
     <string name="action_select_translation">Selecione a tradução</string>
     <string name="action_add_go_live">Adicionar e ir ao vivo</string>
     <string name="title_enter_song">Pesquisar música…</string>
-    <string name="msg_how_to"><b>Pesquise uma música:</b>\nProcure uma parte da letra da música ou o título da música e pressione Enter. Depois de alguns segundos você receberá todas as músicas correspondentes à frase da pesquisa.\n\n<b>Adicione uma passagem bíblica:</b>\nVocê separa o capítulo do versículo com dois-pontos (:) e vários versículos seguidos com um hífen (-). Se você quiser adicionar vários versículos diferentes no mesmo slide, separe cada novo versículo com uma vírgula (,) ou um ponto-e-vírgula (;) e, em seguida, escreva a passagem completa (incluindo o capítulo). Depois de pressionar Enter, você receberá uma mensagem se foi possível ou não adicionar a passagem bíblica.</string>
+    <string name="msg_how_to"><b >Pesquise uma música:</b>\n
+ Procure uma parte da letra da música ou o título da música e pressione Enter. Depois de alguns segundos você receberá todas as músicas correspondentes à frase da pesquisa.\n
+ \n
+ <b >Adicione uma passagem bíblica:</b>\n
+ Você separa o capítulo do versículo com dois-pontos (:) e vários versículos seguidos com um hífen (-). Se você quiser adicionar vários versículos diferentes no mesmo slide, separe cada novo versículo com uma vírgula (,) ou um ponto-e-vírgula (;) e, em seguida, escreva a passagem completa (incluindo o capítulo). Depois de pressionar Enter, você receberá uma mensagem se foi possível ou não adicionar a passagem bíblica.</string>
     <string name="title_search_help">Ajuda de pesquisa</string>
     <string name="msg_trying_to_find_server_automatically">Tentando encontrar o servidor…</string>
     <string name="msg_getting_bible_translations">Obtendo traduções da Bíblia…</string>
@@ -52,10 +56,10 @@
     <string name="msg_checking_stored_url">Verificando o URL…</string>
     <string name="msg_searching">Procurando…</string>
     <string name="msg_getting_bible_books">Obtendo livros bíblicos…</string>
-    <string name="msg_checking_stored_url_and_auto_connecting">Verificando a URL armazenada e conectando-se automaticamente… </string>
+    <string name="msg_checking_stored_url_and_auto_connecting">Verificando a URL armazenada e conectando-se automaticamente…</string>
     <string name="action_change_book_or_translation">Mudar livro bíblico ou tradução</string>
     <string name="msg_cant_use_ipv6">Infelizmente você não pode usar endereços ipv6. Você precisa usar um endereço ipv4 para poder usar este aplicativo. Se você não sabe como encontrá-lo, pesquise no google \'como encontrar ip local \'e o nome do seu sistema operacional. Digite o endereço IPV4/URL abaixo.</string>
-    <string name="msg_new_settings_added"> Novas configurações de navegação foram adicionadas </string>
+    <string name="msg_new_settings_added">Novas configurações de navegação foram adicionadas</string>
     <string name="title_activity_crash">%s Travou</string>
     <string name="title_crash">Desculpe pelo inconveniente!</string>
     <string name="msg_crash_body_1">Eu me esforço para manter o aplicativo o mais estável possível, mas às vezes o aplicativo ainda falha. Por favor, ajude-me a resolver este problema, fornecendo-me informações úteis sobre o contexto em que o erro ocorreu.</string>
@@ -71,13 +75,13 @@
     <string name="troubleshoot_msg_auto_connect">Se você usar o recurso de conexão automática, certifique-se de tê-lo habilitado no Quelea adicionando \"use.auto.detect.server=true\" ao arquivo de configurações localizado na pasta .quelea no diretório do usuário.</string>
     <string name="troubleshoot_msg_change_port">ente alterar a porta no Quelea.</string>
     <string name="troubleshoot_msg_disable_firewall">Desative o firewall e o antivírus temporariamente para garantir que não esteja onde está o problema.</string>
-    <string name="troubleshoot_msg_check_router">Verifique as configurações do roteador para garantir que o encaminhamento de porta esteja ativado. Isso é diferente para todas as marcas, portanto, consulte o manual do produto para isso. </string>
+    <string name="troubleshoot_msg_check_router">Verifique as configurações do roteador para garantir que o encaminhamento de porta esteja ativado. Isso é diferente para todas as marcas, portanto, consulte o manual do produto para isso.</string>
     <string name="troubleshoot_msg_guide_info">Bem-vindo ao guia de solução de problemas. Isso guiará você pelas causas mais comuns das falhas de conexão. Para me ajudar a melhorar o aplicativo, por favor clique em \"Isso funcionou \" sempre que você encontrar algo que funcione.</string>
     <string name="troubleshoot_msg_report_bug">Isso significa que há um problema com o aplicativo. Gostaria de me enviar um email com algumas informações para que eu possa resolver isso?</string>
     <string name="troubleshoot_msg_not_within_app">Infelizmente, isso significa que o problema está fora do aplicativo. Por isso, não posso resolver isso para você. Que bom que você encontrou alguma maneira de fazê-lo funcionar pelo menos!</string>
-    <string name="troubleshoot_msg_finished"> Perfeito! Então você deve ser capaz de usar o modo normal do aplicativo agora.</string>
+    <string name="troubleshoot_msg_finished">Perfeito! Então você deve ser capaz de usar o modo normal do aplicativo agora.</string>
     <string name="troubleshoot_msg_nothing_worked">Lamentamos que você ainda não tenha conseguido fazê-lo funcionar! Gostaria de me enviar um email para que eu possa ajudá-lo?</string>
-    <string name="troubleshoot_action_previous">Anterior </string>
+    <string name="troubleshoot_action_previous">Anterior</string>
     <string name="troubleshoot_action_this_worked">Isso funcionou</string>
     <string name="troubleshoot_action_next">Próximo</string>
     <string name="troubleshoot_action_nothing_worked">Nada funcionou</string>
@@ -85,8 +89,8 @@
     <string name="msg_navigation_drawer_open">Abrir ordem do culto</string>
     <string name="msg_navigation_drawer_close">Fechar ordem do culto</string>
     <string name="title_select_theme">Selecionar o tema</string>
-    <string name="msg_setting_theme">Definir tema <xliff:g example="Black on White" id="theme_name">%s</xliff:g></string>
-    <string name="msg_choose_action">Escolha uma ação para <xliff:g example="Amazing Grace" id="item_name">%s</xliff:g></string>
+    <string name="msg_setting_theme">Definir tema &lt;xliff:g example=\"Black on White\" id=\"theme_name\" &gt;%s&lt;/xliff:g&gt;</string>
+    <string name="msg_choose_action">Escolha uma ação para &lt;xliff:g example=\"Amazing Grace\" id=\"item_name\" &gt;%s&lt;/xliff:g&gt;</string>
     <string name="action_remove_item">Remover do agendamento</string>
     <string name="action_move_up">Mover para cima</string>
     <string name="action_move_down">Mover para baixo</string>
@@ -116,7 +120,7 @@
     <string name="pref_description_auto_connect">Sempre tente conectar automaticamente se o URL armazenado não funcionar.</string>
     <string name="pref_title_auto_connect">Usar conexão automática</string>
     <string name="pref_header_navigation_settings">Configurações de navegação</string>
-    <string name="pref_title_on_end"> Fim do item/ação inicial</string>
+    <string name="pref_title_on_end">Fim do item/ação inicial</string>
     <string name="pref_description_on_end">Selecione o que você deseja que o aplicativo faça quando navegar com uma das duas opções acima e chegar ao final/início de um item.</string>
     <string name="pref_description_long_press">Selecione o que você quer que aconteça se você pressionar um botão quando estiver navegando com uma das duas opções acima. Observe que isso não funcionará com os pedais do AirTurn.</string>
     <string name="pref_title_long_press">Ação de longa duração</string>
@@ -131,25 +135,4 @@
     <string name="pref_description_choose_app_theme">Escolha o tema do aplicativo</string>
 
     <!-- Translatable arrays -->
-    <string-array name="auto_progress">
-        <item name="0">Andamento para o item seguinte/anterior </item>
-        <item name="1">Ocultar texto com o botão Limpar</item>
-        <item name="2">Ocultar texto e mostrar o Logotipo</item>
-        <item name="3">Ocultar texto com Tela Preta</item>
-        <item name="4">Não faça nada</item>
-    </string-array>
-    <string-array name="swipe_navigation">
-        <item name="0">Mover para o item seguinte/anterior</item>
-        <item name="1">Mover para o próximo slide/anterior</item>
-        <item name="2">Não faça nada</item>
-    </string-array>
-    <string-array name="auto_timeout">
-        <item name="200">Curto</item>
-        <item name="500">Médio</item>
-        <item name="1000">Longo</item>
-    </string-array>
-    <string-array name="app_theme">
-        <item name="default">Padrão (claro)</item>
-        <item name="dark">Escuro</item>
-    </string-array>
 </resources>
